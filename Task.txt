@@ -1,0 +1,24 @@
+37  mkdir "Игрушки для школьников"
+38  mkdir "Игрушки для дошколят"
+39  ls
+40  cd "Игрушки для школьников"/
+41  touch "Роботы"
+42  touch "Конструктор"
+43  touch "Настольные игры"
+44  cd ..
+45  cd "Игрушки для дошколят"/
+46  touch "Мягкие игрушки"
+47  touch "Куклы"
+48  touch "Машинки"
+49  cd ..
+50  mkdir "Имя Игрушки"
+51  mv "Игрушки для школьников"/* "Имя Игрушки"
+52  mv "Игрушки для дошколят"/* "Имя Игрушки"
+53  mv "Имя Игрушки" "Игрушки"
+54  ls
+55  ls "Игрушки"
+56  sudo snap install hello-world
+57  sudo snap remove hello-world
+58  echo "*/3 * * * * echo 'Time: ' $(date) >> ~/finaltask/time.txt" | crontab -
+59  crontab -l
+60  history
