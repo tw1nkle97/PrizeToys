@@ -1,0 +1,5 @@
+Toy{id=2, name='toy2', quantity=4, weight=40.0}
+Toy{id=3, name='toy3', quantity=3, weight=50.0}
+Toy{id=3, name='toy3', quantity=3, weight=50.0}
+Toy{id=3, name='toy3', quantity=3, weight=50.0}
+Toy{id=3, name='toy3', quantity=3, weight=50.0}
